@@ -14,6 +14,6 @@ spec:
   output:
     to:
       kind: DockerImage
-      name: quay.io/aliakkaya7/greeting-console
+      name: quay.io/aliakk/greeting-console
     pushSecret:
       name: quay-credentials
